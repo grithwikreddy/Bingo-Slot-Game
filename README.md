@@ -73,11 +73,5 @@ This is a **slot-style number marking game** played on a **3x3 matrix**. The goa
    java SlotGame
    ```
 
-## 📜 License
 
-This project is licensed under the **MIT License**.
-
-## 🤝 Contributions
-
-Feel free to submit **issues, feature requests, or pull requests** to improve the game!
 
